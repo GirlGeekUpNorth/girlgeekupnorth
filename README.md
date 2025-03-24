@@ -1,5 +1,7 @@
 An assertive* go-getter with a passion for education. Embarking on my Doctorate in Education, studying the experiences of disadvantaged learners on a socio-cultural online coding programme to make a difference to those who need it most. Advocate for social mobility, diversity and inclusion with a strong history of working with volunteer organisations in the tech sector. I get shit done...
 
+*disposed to or characterized by bold or confident statements and behaviour, an assertive leader, not aggressive just because I'm a woman...
+
 Currently teaching:
 - Intro to Web Development (HTML, CSS, JavaScript & GitHub)
 - JavaScript Next Steps (JavaScript)
