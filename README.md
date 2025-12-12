@@ -26,5 +26,14 @@ Some tools I am learning or have used:
 [![GirlGeekUpNorth's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlgeekupnorth&show_icons=true&theme=ambient_gradient)](https://github.com/girlgeekupnorth/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girlgeekupnorth&layout=donut&show_icons=true&theme=ambient_gradient)](https://github.com/girlgeekupnorth/github-readme-stats)
           
           
-          
+# Heading 1
+## Heading 2
+### Heading 3
 
+**bold text**
+*italic text*
+~~strikethrough text~~
+
+>this is a quote
+
+`console.log("Hello, World!)`
