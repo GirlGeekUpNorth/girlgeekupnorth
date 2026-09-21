@@ -2,12 +2,17 @@ An assertive* go-getter with a passion for education. Embarking on my Doctorate 
 
 *disposed to or characterized by bold or confident statements and behaviour, an assertive leader, not aggressive just because I'm a woman...
 
-Currently teaching:
+Courses I have written:
 - Intro to Web Development (HTML, CSS, JavaScript & GitHub)
 - JavaScript Next Steps (JavaScript)
 - Intro to Front End (JavaScript, React)
 - Intro to Back End (JavaScript, Node.js, SQL, MongoDB)
 - Intro to Games Development (Python)
+- Intro to GitHub
+- L2 Coding AI with Python
+- L2 Games Design & Development
+- L2 Data
+- L2 Cyber Security
 
 Some tools I am learning or have used:
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45"/>
